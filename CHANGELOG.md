@@ -3,3 +3,6 @@
 
 ## 2018-09-04
 bugfix unknown error: Cannot call method 'toLowerCase' of undefined
+
+## 2020-05-13
+bugfix: Android BlackBerry 10 device null pointer exception
